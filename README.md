@@ -1,5 +1,5 @@
 # FeedForward-Neural-Networks
-Diabetes Prediction Model
+Diabetes Prediction Model:
 This project aims to build a machine learning model to predict diabetes using a dataset of health-related measurements. The dataset is preprocessed, visualized, and split into training, validation, and test sets. A neural network model is then trained and evaluated.
 
 Dataset
