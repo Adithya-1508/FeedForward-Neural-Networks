@@ -39,9 +39,11 @@ tensorflow
 You can install them using pip:
 
 bash
-Copy code
+
 pip install numpy pandas matplotlib scikit-learn imbalanced-learn tensorflow
+
 Usage
+
 Data Loading: Load the dataset from the CSV file.
 
 Results
